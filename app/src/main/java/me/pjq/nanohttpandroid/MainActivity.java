@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         content.append(status + '\n');
     }
 
+
     @Override
     protected void onDestroy() {
         super.onDestroy();
